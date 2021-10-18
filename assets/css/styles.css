@@ -1,0 +1,25 @@
+body {
+    background: url("../images/6760-doctores.jpg");
+    background-size: cover;
+}
+
+.color {
+    color: rgb(76, 217, 241)
+}
+
+.tamaño {
+    font-size: 4vw;
+}
+
+.fondo {
+    background: rgba(248, 247, 247, 0.39);
+}
+
+.fondoAguaMarina {
+    background-color: rgba(76, 216, 241, 0.671)
+}
+
+button:hover {
+    background-color: rgb(76, 217, 241);
+    color: white;
+}
